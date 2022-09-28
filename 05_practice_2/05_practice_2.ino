@@ -16,6 +16,6 @@ void loop() {
     delay(100); 
   }
   
-  digitalWrite(PIN_LED, 1);
+digitalWrite(PIN_LED, 1);
   while(1){} //infinite loop
    }
